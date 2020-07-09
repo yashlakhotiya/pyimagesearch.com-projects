@@ -6,9 +6,10 @@
 
 import numpy as np
 import cv2
-import argparse
 import time
 import imutils
+#to install imutils
+#pip install imutils
 
 
 # In[28]:
